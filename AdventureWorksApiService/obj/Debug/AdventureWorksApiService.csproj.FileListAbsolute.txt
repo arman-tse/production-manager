@@ -8,8 +8,8 @@ C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\bin\Debug\AdventureWorks.DbModel.dll.config
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\bin\Debug\EntityFramework.xml
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.csprojAssemblyReference.cache
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.csproj.CoreCompileInputs.cache
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.csproj.CopyComplete
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.pdb
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.csprojAssemblyReference.cache

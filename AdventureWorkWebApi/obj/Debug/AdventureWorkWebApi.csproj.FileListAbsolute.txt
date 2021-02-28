@@ -1,3 +1,5 @@
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.csprojAssemblyReference.cache
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.csproj.CoreCompileInputs.cache
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\AdventureWorkWebApi.dll.config
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\AdventureWorkWebApi.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\AdventureWorkWebApi.pdb
@@ -97,8 +99,6 @@ C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\S
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\System.Web.WebPages.Razor.xml
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Antlr3.Runtime.pdb
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.csprojAssemblyReference.cache
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.csproj.CoreCompileInputs.cache
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.csproj.CopyComplete
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.pdb
