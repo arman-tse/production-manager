@@ -3,3 +3,5 @@
 2021-02-28 11:52:54.021 +06:00 [INF] It is working333!!
 2021-02-28 11:54:08.723 +06:00 [INF] It is working333!!
 2021-02-28 11:54:15.506 +06:00 [INF] Get all products
+2021-02-28 12:46:44.455 +06:00 [INF] Product controller has been initialized
+2021-02-28 12:46:50.076 +06:00 [INF] Get all products

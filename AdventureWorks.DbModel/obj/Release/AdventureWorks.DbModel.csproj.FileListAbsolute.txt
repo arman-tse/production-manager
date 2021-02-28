@@ -1,0 +1,14 @@
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\adventure-forks-initial\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csprojAssemblyReference.cache
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\adventure-forks-initial\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csproj.CoreCompileInputs.cache
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\bin\Release\AdventureWorks.DbModel.dll.config
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\bin\Release\AdventureWorks.DbModel.dll
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\bin\Release\AdventureWorks.DbModel.pdb
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\bin\Release\EntityFramework.dll
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\bin\Release\EntityFramework.xml
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csprojAssemblyReference.cache
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csproj.CoreCompileInputs.cache
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.csproj.CopyComplete
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.dll
+C:\Users\Sayat_Abuzov\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\obj\Release\AdventureWorks.DbModel.pdb

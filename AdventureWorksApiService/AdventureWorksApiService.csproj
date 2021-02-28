@@ -61,7 +61,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\AdventureWorks.DbModel.csproj">
+    <ProjectReference Include="..\AdventureWorks.DbModel\AdventureWorks.DbModel.csproj">
       <Project>{81e96cda-f8b3-4b85-a60d-4a3fe5b1c7b2}</Project>
       <Name>AdventureWorks.DbModel</Name>
     </ProjectReference>

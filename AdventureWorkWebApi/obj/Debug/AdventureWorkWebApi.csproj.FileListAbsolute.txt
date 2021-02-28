@@ -58,6 +58,9 @@ C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\E
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.dll
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.Console.dll
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.File.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Swashbuckle.Core.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\System.Net.Http.Formatting.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\System.Web.Helpers.dll
@@ -77,6 +80,10 @@ C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\A
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\AdventureWorksApiService.dll.config
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\EntityFramework.xml
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.xml
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.Console.xml
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.File.pdb
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.File.xml
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Newtonsoft.Json.xml
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\System.Net.Http.Formatting.xml
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\System.Web.Helpers.xml
@@ -95,10 +102,3 @@ C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\D
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.csproj.CopyComplete
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\obj\Debug\AdventureWorkWebApi.pdb
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.dll
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.Console.dll
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.File.dll
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.xml
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.Console.xml
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.File.pdb
-C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorkWebApi\bin\Serilog.Sinks.File.xml

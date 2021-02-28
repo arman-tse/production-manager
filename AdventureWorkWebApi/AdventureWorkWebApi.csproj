@@ -271,8 +271,8 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\AdventureWorks.DbModel.csproj">
-      <Project>{81E96CDA-F8B3-4B85-A60D-4A3FE5B1C7B2}</Project>
+    <ProjectReference Include="..\AdventureWorks.DbModel\AdventureWorks.DbModel.csproj">
+      <Project>{81e96cda-f8b3-4b85-a60d-4a3fe5b1c7b2}</Project>
       <Name>AdventureWorks.DbModel</Name>
     </ProjectReference>
     <ProjectReference Include="..\AdventureWorksApiService\AdventureWorksApiService.csproj">

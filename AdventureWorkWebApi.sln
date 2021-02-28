@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorkWebApi", "Adve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorksApiService", "AdventureWorksApiService\AdventureWorksApiService.csproj", "{058517EF-D1F3-4034-A156-D486CC67BE16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.DbModel", "..\..\..\Documents\Mentoring Azure\Module1\Task 2\adventure-forks-initial\AdventureWorks.DbModel\AdventureWorks.DbModel.csproj", "{81E96CDA-F8B3-4B85-A60D-4A3FE5B1C7B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.DbModel", "AdventureWorks.DbModel\AdventureWorks.DbModel.csproj", "{81E96CDA-F8B3-4B85-A60D-4A3FE5B1C7B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
