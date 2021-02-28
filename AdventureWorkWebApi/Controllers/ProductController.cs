@@ -19,7 +19,7 @@ namespace AdventureWorkWebApi.Controllers
             _logger = new LoggerConfiguration()
     .WriteTo.File(System.Web.Hosting.HostingEnvironment.MapPath("~/Logs/log.txt"))
     .CreateLogger();
-            _logger.Information("It is working333!!");
+            _logger.Information("Product controller has been initialized");
         }
         public List<ProductDto> GetAll()
         {
