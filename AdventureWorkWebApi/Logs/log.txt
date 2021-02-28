@@ -5,3 +5,5 @@
 2021-02-28 11:54:15.506 +06:00 [INF] Get all products
 2021-02-28 12:46:44.455 +06:00 [INF] Product controller has been initialized
 2021-02-28 12:46:50.076 +06:00 [INF] Get all products
+2021-02-28 12:52:38.924 +06:00 [INF] Product controller has been initialized
+2021-02-28 12:52:44.815 +06:00 [INF] Get by id

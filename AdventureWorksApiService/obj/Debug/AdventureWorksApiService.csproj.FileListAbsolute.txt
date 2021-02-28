@@ -12,3 +12,4 @@ C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.csproj.CopyComplete
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.dll
 C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.pdb
+C:\Users\Sayat_Abuzov\source\repos\AdventureWorkWebApi\AdventureWorksApiService\obj\Debug\AdventureWorksApiService.csprojAssemblyReference.cache
