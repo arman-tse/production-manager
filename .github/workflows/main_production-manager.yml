@@ -22,11 +22,23 @@ jobs:
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v1.0.5
 
+    - name: Navigate to Workspace
+      run: cd $GITHUB_WORKSPACE
+
+    - name: Create Build Directory
+      run: mkdir _build
+
     - name: Restore NuGet packages
       run: nuget restore
 
-    - name: Publish to folder
-      run: msbuild /nologo /verbosity:m /t:Build /t:pipelinePreDeployCopyAllFilesToOneFolder /p:_PackageTempDir="\published\"
+    - name: Build and publish to folder
+      run: msbuild AdventureWorkWebApi.sln /nologo /nr:false /p:DeployOnBuild=true /p:DeployDefaultTarget=WebPublish /p:WebPublishMethod=FileSystem /p:DeleteExistingFiles=True /p:platform="Any CPU" /p:configuration="Release" /p:PublishUrl="../_build"
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v1.0.0
+      with:
+        name: published_webapp
+        path: "./_build"
 
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
@@ -34,4 +46,4 @@ jobs:
         app-name: 'production-manager'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_f538440b18d04786a5fbf6e1f33c41be }}
-        package: \published\
+        package: "./_build"
